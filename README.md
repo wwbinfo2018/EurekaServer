@@ -1,2 +1,0 @@
-# EurekaServer
-Eureka Server
